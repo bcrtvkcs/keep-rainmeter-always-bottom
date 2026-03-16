@@ -2,7 +2,7 @@
 // @id              keep-rainmeter-always-bottom
 // @name            Keep Rainmeter Always on Desktop
 // @description     Keeps Rainmeter windows to stay on desktop.
-// @version         1.1.0
+// @version         1.1.1
 // @author          BCRTVKCS
 // @github          https://github.com/bcrtvkcs
 // @twitter         https://x.com/bcrtvkcs
